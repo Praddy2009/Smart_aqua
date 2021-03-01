@@ -12,7 +12,7 @@ SmartAqua is an IoT based project made to automate the watering process of plant
 ## Setup
 - [X] [Arduino IDE setup for NodeMCU ESP8266](IDE_Setup.md)
 - [X] [Telegram_Bot setup](Telegram_Bot_setup.md)
-- [ ] [Circuit Connection](Circuit_Connection.md)
-- [ ] [Sketch (Script)](Sketch.md)
+- [X] [Circuit Connection](Circuit_Connection.md)
+- [X] [Sketch (Script)](Sketch.md)
 
 To contribute feel free to make the .md files better. Or if you wanna add your own project make a new folder and follow the same template for circuit diagram and sketch.
