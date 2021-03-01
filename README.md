@@ -10,6 +10,6 @@ SmartAqua is an IoT based project made to automate the watering process of plant
 5. Telegram API
 
 ## Setup
-- [ ] [Arduino IDE setup for NodeMCU ESP8266]()
+- [X] [Arduino IDE setup for NodeMCU ESP8266](IDE_Setup.md)
 - [ ] [Circuit Connection]()
 - [ ] [Sketch (Script)]()
