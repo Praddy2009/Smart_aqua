@@ -20,7 +20,7 @@ And we are done for now with Firebase.
 
 <hr />
 
-## Setting Up Arduino IDE for NodeMCU and ESP8266
+## Setting Up Arduino IDE for NodeMCU ESP8266
 
 1. To setup Arduino IDE for NodeMCU - [Visit](https://github.com/Praddy2009/Smart_aqua/blob/main/IDE_Setup.md)
 2. Open `Sketch` -> `Manage Library` -> `Manage Libraries` and install `ArduinoJson`
