@@ -1,7 +1,7 @@
 
 ## Let's first create a realtime database
 
-1. Visit : [FirebaseConsole](https://console.firebase.google.com)
+1. Visit : [Firebase Console](https://console.firebase.google.com)
 2. Create a `new project`. Give it a unique name and disable analytics option(as we don't need them in this project).
 
    ![image](https://user-images.githubusercontent.com/43271546/110456974-2cf9b200-80f0-11eb-883f-4be2bbb9639c.png)
