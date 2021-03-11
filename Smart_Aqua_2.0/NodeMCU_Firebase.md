@@ -22,7 +22,20 @@ And we are done for now with Firebase.
 
 ## Setting Up Arduino IDE for NodeMCU ESP8266
 
-1. To setup Arduino IDE for NodeMCU - [Visit](https://github.com/Praddy2009/Smart_aqua/blob/main/IDE_Setup.md)
-2. Open `Sketch` -> `Manage Library` -> `Manage Libraries` and install `ArduinoJson`
-3. Now to setup firbase we need to install Library [Link](https://github.com/FirebaseExtended/firebase-arduino). Download as zip.
-4. Open `Sketch` -> `Manage Library` -> `Add .ZIP library` navigate your downloaded zip and add it.
+1. Visit `Sketch` -> `Include Libraries` -> `Manage Libraries`.
+2. Download `Firebase ESP8266 Client` by `Mobizt`.
+
+<hr />
+
+## Basic Run
+
+1. Open `File` -> `Examples` -> `Firebase esp8266 Client` -> `Begineers Start here`
+2. Now fill `WIFI_SSID` and `WIFI_PASSWORD` with your wifi name and password.
+3. For `FIREBASE_HOST` get the value from firebase console. remove the starting `https://` and ending `/`
+   
+   ![image](https://user-images.githubusercontent.com/43271546/110756212-e8952000-826f-11eb-8c3b-1b691b61068d.png)
+   
+4. For `FIREBASE_AUTH` get the value from firebase console. `⚙️` -> `Users and Permissions` -> `Service Accounts` -> `Database Secrets`
+   
+   ![image](https://user-images.githubusercontent.com/43271546/110755858-70c6f580-826f-11eb-88ab-35b63520c48c.png)
+
