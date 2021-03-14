@@ -5,7 +5,7 @@ Steps:
     
     - Now in Arduino IDE, `Sketch` -> `Include Library` -> `Manage Libraries` and search for telegram.
     - Install `Universal Telegram Bot`(If it asks you to install JSON dependeny then click on Install all).
-    - Search for json and make sure `ArduinoJson` is installed.
+    - Search for json and make sure `ArduinoJson` is installed(Working with v6.17.2).
 
 2. Getting the telegram Bot Token
   
