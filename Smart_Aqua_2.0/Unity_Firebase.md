@@ -1,4 +1,4 @@
-## Let's setup Firebase Realtime database with Unity.
+## Let's setup Firebase Realtime database with Unity 2019.
 
 1. Create a new project in Unity and switch it to `Android`.
 2. In `player settings` give `Company Name` and `Product Name`.
@@ -40,6 +40,7 @@
 
 13. Choose (us-central1) for `Database Location` and `Start in test mode` and `Enable`.
 14. Move to `⚙️`-> `Project Settings`-> `Your Apps` and download the `google-services.json` and `SDK`
+    
     ![image](https://user-images.githubusercontent.com/43271546/111484461-ca418f80-875b-11eb-931a-decb2a04b9a7.png)
 
 15. Open the Unity project and import packages
@@ -80,3 +81,12 @@
     -  Play the game and click on button you'll see the values changing on `Realtime Database` console over Firebase.
     -  Visit [Docs](https://firebase.google.com/docs/database/unity/save-data) to learn other ways to send and receive data over firebase.
     -  If any error occurs(Can't make Firebase App etc) try downloading the google-services.json again(Step 14) and replacing it with old file under `Asset folder`. 
+
+<hr />
+
+## For Unity 2020
+
+The process is same as above just one change:
+    
+   Create a folder `StreamingAssets` under `ssets` and place your google-services JSON file inside that or you'll face the error. So your final path will be `Assets/StreamingAssets/google-services.json`
+   
