@@ -79,4 +79,4 @@
     -  Open `UI`-> `Button` and under Inspector Panel of Button `On Click` press on `+` drag and drop the created empty game object above and under function select `realtime`-> `update_value`.
     -  Play the game and click on button you'll see the values changing on `Realtime Database` console over Firebase.
     -  Visit [Docs](https://firebase.google.com/docs/database/unity/save-data) to learn other ways to send and receive data over firebase.
-    -  If any error occurs try downloading the google-services.json again and replacing it with old file under `Asset folder`. 
+    -  If any error occurs(Can't make Firebase App etc) try downloading the google-services.json again(Step 14) and replacing it with old file under `Asset folder`. 
