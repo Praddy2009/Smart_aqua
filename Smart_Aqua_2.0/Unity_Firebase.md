@@ -25,6 +25,7 @@ I have declared a global variable Database .
     ![image](https://user-images.githubusercontent.com/43271546/111473895-80ec4280-8751-11eb-9ea9-74a91f0d7261.png)
 
 7. Register as Android app and in Unity player Setting get the package name and paste it here.For App nick name give it any. And click on Register.
+    
     ![image](https://user-images.githubusercontent.com/43271546/111474470-1ee00d00-8752-11eb-8d9a-274d0ec310ad.png)
 
 8. `Next` 
