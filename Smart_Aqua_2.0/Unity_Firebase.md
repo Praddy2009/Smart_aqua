@@ -18,10 +18,13 @@ I have declared a global variable Database .
     Note: Multiple gams/apps under same Keystore the differentiated by Alias so use that field to give it a unique name with a different password.
     
 4. Now head over to [Firebase Console](https://console.firebase.google.com/) and create a new project.
-  ![image](https://user-images.githubusercontent.com/43271546/111472412-edfed880-874f-11eb-88c2-d1008e5daa1e.png)
+    
+    ![image](https://user-images.githubusercontent.com/43271546/111472412-edfed880-874f-11eb-88c2-d1008e5daa1e.png)
 
 5. Give it a name and turn off analytics for now.
+
 6. Click on the Unity Icon to add the application
+    
     ![image](https://user-images.githubusercontent.com/43271546/111473895-80ec4280-8751-11eb-9ea9-74a91f0d7261.png)
 
 7. Register as Android app and in Unity player Setting get the package name and paste it here.For App nick name give it any. And click on Register.
