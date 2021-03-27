@@ -1,4 +1,6 @@
-## Let's setup Firebase Realtime database with Unity 2019 & 2020I am answering this question w.r.t firebase sdk 7.1.0.
+## Let's setup Firebase Realtime database with Unity 2019 & 2020
+
+These steps worked fine w.r.t firebase `sdk 7.1.0`.
 
 I have declared a global variable Database .
 
